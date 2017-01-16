@@ -46,7 +46,7 @@ Download bundled [ShadowVPN with LuCI], or just [download ShadowVPN] itself,
 Or build ShadowVPN yourself: cd into [SDK] root, then
 
     pushd package
-    git clone https://github.com/clowwindy/ShadowVPN.git
+    git clone https://github.com/ramber2000/ShadowVPN
     popd
     make menuconfig # select Network/ShadowVPN
     make V=s
